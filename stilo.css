@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    padding:0;
+    display:flex;
+    flex-direction: column;
+}
+
+
+header{
+ background-color: aquamarine;
+ color: black;   
+}
+nav{
+    background-color: bisque;
+    color: black;
+    display: flex;
+    padding: 20px;
+}
+nav ul{
+    display:flex;
+    margin:0;
+    padding:10px;
+    list-style: none;
+}
+nav ul li a{
+    color:antiquewhite;
+    padding: 10px;
+    text-decoration:none;
+}
+.contenedor{
+    display: flex;
+
+
+}
+aside{
+    background-color: #ddd;
+    padding: 10px;
+    width:25%;
+    display:flex;
+    flex-direction: column;
+    
+}
+main{
+    padding: 10px;
+    width:75%;
+
+}
+footer{
+    background-color: blanchedalmond;
+
+
+}
+footer ul{
+    color:antiquewhite;
+    padding: 10px;
+    text-decoration:none;    
+}
+footer ul li a{
+    color:antiquewhite;
+    padding: 10px;
+    text-decoration:none;
+}
