@@ -7,11 +7,11 @@ body{
 
 
 header{
- background-color: aquamarine;
+ background-color: rgb(15, 149, 244);
  color: black;   
 }
 nav{
-    background-color: bisque;
+    background-color: rgb(77, 132, 172);
     color: black;
     display: flex;
     padding: 20px;
@@ -23,7 +23,7 @@ nav ul{
     list-style: none;
 }
 nav ul li a{
-    color:antiquewhite;
+    color:black;
     padding: 10px;
     text-decoration:none;
 }
@@ -51,12 +51,12 @@ footer{
 
 }
 footer ul{
-    color:antiquewhite;
+    color:black;
     padding: 10px;
     text-decoration:none;    
 }
 footer ul li a{
-    color:antiquewhite;
+    color:black;
     padding: 10px;
     text-decoration:none;
 }
